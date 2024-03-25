@@ -1,0 +1,634 @@
+{
+    "data": {
+        "ID500000": {
+            "par_id": "ID100000",
+            "ref_loc": 6,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60000",
+                "ID60001",
+                "ID60002"
+            ]
+        },
+        "ID500001": {
+            "par_id": "ID100000",
+            "ref_loc": 10,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60003",
+                "ID60004",
+                "ID60005"
+            ]
+        },
+        "ID500002": {
+            "par_id": "ID100000",
+            "ref_loc": 38,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60006",
+                "ID60007",
+                "ID60008"
+            ]
+        },
+        "ID500003": {
+            "par_id": "ID100000",
+            "ref_loc": 55,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60009",
+                "ID60010",
+                "ID60011"
+            ]
+        },
+        "ID500004": {
+            "par_id": "ID100001",
+            "ref_loc": 81,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60012",
+                "ID60013",
+                "ID60014"
+            ]
+        },
+        "ID500005": {
+            "par_id": "ID100001",
+            "ref_loc": 85,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60015",
+                "ID60016",
+                "ID60017"
+            ]
+        },
+        "ID500006": {
+            "par_id": "ID100002",
+            "ref_loc": 33,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60018",
+                "ID60019",
+                "ID60020"
+            ]
+        },
+        "ID500007": {
+            "par_id": "ID100002",
+            "ref_loc": 40,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60021",
+                "ID60022",
+                "ID60023"
+            ]
+        },
+        "ID500008": {
+            "par_id": "ID100003",
+            "ref_loc": 15,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60024",
+                "ID60025",
+                "ID60026"
+            ]
+        },
+        "ID500009": {
+            "par_id": "ID100003",
+            "ref_loc": 17,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60027",
+                "ID60028",
+                "ID60029"
+            ]
+        },
+        "ID500010": {
+            "par_id": "ID100003",
+            "ref_loc": 20,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60030",
+                "ID60031",
+                "ID60032"
+            ]
+        },
+        "ID500011": {
+            "par_id": "ID100003",
+            "ref_loc": 85,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60033",
+                "ID60034",
+                "ID60035"
+            ]
+        },
+        "ID500012": {
+            "par_id": "ID100004",
+            "ref_loc": 46,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60036",
+                "ID60037",
+                "ID60038"
+            ]
+        },
+        "ID500013": {
+            "par_id": "ID100005",
+            "ref_loc": 30,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60039",
+                "ID60040",
+                "ID60041"
+            ]
+        },
+        "ID500014": {
+            "par_id": "ID100006",
+            "ref_loc": 52,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60042",
+                "ID60043",
+                "ID60044"
+            ]
+        },
+        "ID500015": {
+            "par_id": "ID100006",
+            "ref_loc": 54,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60045",
+                "ID60046",
+                "ID60047"
+            ]
+        },
+        "ID500016": {
+            "par_id": "ID100007",
+            "ref_loc": 10,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60048",
+                "ID60049",
+                "ID60050"
+            ]
+        },
+        "ID500017": {
+            "par_id": "ID100007",
+            "ref_loc": 57,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60051",
+                "ID60052",
+                "ID60053"
+            ]
+        },
+        "ID500018": {
+            "par_id": "ID100008",
+            "ref_loc": 43,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60054",
+                "ID60055",
+                "ID60056"
+            ]
+        },
+        "ID500019": {
+            "par_id": "ID100008",
+            "ref_loc": 54,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60057",
+                "ID60058",
+                "ID60059"
+            ]
+        },
+        "ID500020": {
+            "par_id": "ID100009",
+            "ref_loc": 10,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60060",
+                "ID60061",
+                "ID60062"
+            ]
+        },
+        "ID500021": {
+            "par_id": "ID100010",
+            "ref_loc": 24,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60063",
+                "ID60064",
+                "ID60065"
+            ]
+        },
+        "ID500022": {
+            "par_id": "ID100011",
+            "ref_loc": 54,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60066",
+                "ID60067",
+                "ID60068"
+            ]
+        },
+        "ID500023": {
+            "par_id": "ID100012",
+            "ref_loc": 4,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60069",
+                "ID60070",
+                "ID60071"
+            ]
+        },
+        "ID500024": {
+            "par_id": "ID100013",
+            "ref_loc": 88,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60072",
+                "ID60073",
+                "ID60074"
+            ]
+        },
+        "ID500025": {
+            "par_id": "ID100014",
+            "ref_loc": 8,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60075",
+                "ID60076",
+                "ID60077"
+            ]
+        },
+        "ID500026": {
+            "par_id": "ID100015",
+            "ref_loc": 73,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60078",
+                "ID60079",
+                "ID60080"
+            ]
+        },
+        "ID500027": {
+            "par_id": "ID100016",
+            "ref_loc": 28,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60081",
+                "ID60082",
+                "ID60083"
+            ]
+        },
+        "ID500028": {
+            "par_id": "ID100016",
+            "ref_loc": 31,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60084",
+                "ID60085",
+                "ID60086"
+            ]
+        },
+        "ID500029": {
+            "par_id": "ID100017",
+            "ref_loc": 43,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60087",
+                "ID60088",
+                "ID60089"
+            ]
+        },
+        "ID500030": {
+            "par_id": "ID100017",
+            "ref_loc": 74,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60090",
+                "ID60091",
+                "ID60092"
+            ]
+        },
+        "ID500031": {
+            "par_id": "ID100018",
+            "ref_loc": 22,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60093",
+                "ID60094",
+                "ID60095"
+            ]
+        },
+        "ID500032": {
+            "par_id": "ID100018",
+            "ref_loc": 57,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60096",
+                "ID60097",
+                "ID60098"
+            ]
+        },
+        "ID500033": {
+            "par_id": "ID100019",
+            "ref_loc": 5,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60099",
+                "ID60100",
+                "ID60101"
+            ]
+        },
+        "ID500034": {
+            "par_id": "ID100020",
+            "ref_loc": 1,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60102",
+                "ID60103",
+                "ID60104"
+            ]
+        },
+        "ID500035": {
+            "par_id": "ID100021",
+            "ref_loc": 3,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60105",
+                "ID60106",
+                "ID60107"
+            ]
+        },
+        "ID500036": {
+            "par_id": "ID100022",
+            "ref_loc": 3,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60108",
+                "ID60109",
+                "ID60110"
+            ]
+        },
+        "ID500037": {
+            "par_id": "ID100023",
+            "ref_loc": 1,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60111",
+                "ID60112",
+                "ID60113"
+            ]
+        },
+        "ID500038": {
+            "par_id": "ID100024",
+            "ref_loc": 1,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60114",
+                "ID60115",
+                "ID60116"
+            ]
+        },
+        "ID500039": {
+            "par_id": "ID100025",
+            "ref_loc": 4,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60117",
+                "ID60118",
+                "ID60119"
+            ]
+        },
+        "ID500040": {
+            "par_id": "ID100025",
+            "ref_loc": 9,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60120",
+                "ID60121",
+                "ID60122"
+            ]
+        },
+        "ID500041": {
+            "par_id": "ID100025",
+            "ref_loc": 12,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60123",
+                "ID60124",
+                "ID60125"
+            ]
+        },
+        "ID500042": {
+            "par_id": "ID100026",
+            "ref_loc": 5,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60126",
+                "ID60127",
+                "ID60128"
+            ]
+        },
+        "ID500043": {
+            "par_id": "ID100027",
+            "ref_loc": 13,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60129",
+                "ID60130",
+                "ID60131"
+            ]
+        },
+        "ID500044": {
+            "par_id": "ID100028",
+            "ref_loc": 48,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60132",
+                "ID60133",
+                "ID60134"
+            ]
+        },
+        "ID500045": {
+            "par_id": "ID100028",
+            "ref_loc": 77,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60135",
+                "ID60136",
+                "ID60137"
+            ]
+        },
+        "ID500046": {
+            "par_id": "ID100029",
+            "ref_loc": 74,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60138",
+                "ID60139",
+                "ID60140"
+            ]
+        },
+        "ID500047": {
+            "par_id": "ID100030",
+            "ref_loc": 52,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60141",
+                "ID60142",
+                "ID60143"
+            ]
+        },
+        "ID500048": {
+            "par_id": "ID100031",
+            "ref_loc": 20,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60144",
+                "ID60145",
+                "ID60146"
+            ]
+        },
+        "ID500049": {
+            "par_id": "ID100031",
+            "ref_loc": 45,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60147",
+                "ID60148",
+                "ID60149"
+            ]
+        },
+        "ID500050": {
+            "par_id": "ID100032",
+            "ref_loc": 6,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60150",
+                "ID60151",
+                "ID60152"
+            ]
+        },
+        "ID500051": {
+            "par_id": "ID100032",
+            "ref_loc": 11,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60153",
+                "ID60154",
+                "ID60155"
+            ]
+        },
+        "ID500052": {
+            "par_id": "ID100033",
+            "ref_loc": 4,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60156",
+                "ID60157",
+                "ID60158"
+            ]
+        },
+        "ID500053": {
+            "par_id": "ID100034",
+            "ref_loc": 4,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60159",
+                "ID60160",
+                "ID60161"
+            ]
+        },
+        "ID500054": {
+            "par_id": "ID100035",
+            "ref_loc": 4,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60162",
+                "ID60163",
+                "ID60164"
+            ]
+        },
+        "ID500055": {
+            "par_id": "ID100035",
+            "ref_loc": 9,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60165",
+                "ID60166",
+                "ID60167"
+            ]
+        },
+        "ID500056": {
+            "par_id": "ID100035",
+            "ref_loc": 14,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60168",
+                "ID60169",
+                "ID60170"
+            ]
+        },
+        "ID500057": {
+            "par_id": "ID100035",
+            "ref_loc": 21,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60171",
+                "ID60172",
+                "ID60173"
+            ]
+        },
+        "ID500058": {
+            "par_id": "ID100035",
+            "ref_loc": 29,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60174",
+                "ID60175",
+                "ID60176"
+            ]
+        },
+        "ID500059": {
+            "par_id": "ID100035",
+            "ref_loc": 34,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60177",
+                "ID60178",
+                "ID60179"
+            ]
+        },
+        "ID500060": {
+            "par_id": "ID100036",
+            "ref_loc": 36,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60180",
+                "ID60181",
+                "ID60182"
+            ]
+        },
+        "ID500061": {
+            "par_id": "ID100037",
+            "ref_loc": 6,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60183",
+                "ID60184",
+                "ID60185"
+            ]
+        },
+        "ID500062": {
+            "par_id": "ID100037",
+            "ref_loc": 13,
+            "cited_doc": "https://doi.org/10.48550/arXiv.1908.10084",
+            "annotations": [
+                "ID60186",
+                "ID60187",
+                "ID60188"
+            ]
+        }
+    }
+}

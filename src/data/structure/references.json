@@ -1,0 +1,15 @@
+[
+    {
+        "_id": "reference_id",
+        "par_id": "paragraph_id",
+        "annotations": [
+            "annotation_id1",
+            "annotation_id2",
+            "..."
+        ],
+        "doc_id": "document_id",
+        "cited_doc": "doi",
+        "annotation_count": 2,
+        "performace_measure": 0.8
+    }
+]

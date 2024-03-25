@@ -1,0 +1,13 @@
+[
+    {
+        "_id": "user_id",
+        "annotations": [
+            "annotation_id1",
+            "annotation_id2",
+            "..."
+        ],
+        "name": "name",
+        "type": "annotator / admin",
+        "pw": "password"
+    }
+]

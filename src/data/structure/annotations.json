@@ -1,0 +1,16 @@
+[
+    {
+        "_id": "annotation_id",
+        "ref_id": "refe rence_id",
+        "par_id": "paragraph_id",
+        "assigned_user": "user_id",
+        "status": "annotation_status",
+        "annotation": [
+            {
+               "type": "explicit / inplicit",
+               "start_loc": 1,
+               "end_loc": 3
+            }
+        ]
+    }
+]

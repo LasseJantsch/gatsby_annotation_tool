@@ -1,0 +1,16 @@
+[
+    {
+        "_id": "paragraph_id",
+        "doc_id": "doc_id",
+        "refs":[
+            "reference_id1",
+            "reference_id2",
+            "..."
+        ],
+        "text":[
+            "toke1",
+            "token2",
+            "..."
+        ]
+    }
+]

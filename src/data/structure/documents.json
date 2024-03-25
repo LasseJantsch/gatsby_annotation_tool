@@ -1,0 +1,14 @@
+[
+    {
+        "_id": "document_id",
+        "title": "title",
+        "pub_year": "publication_year",
+        "authors": [
+            "author1",
+            "author2",
+            "..."
+        ],
+        "abstract": "abstract",
+        "doi": "doi"
+    }
+]

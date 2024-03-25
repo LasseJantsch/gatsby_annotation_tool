@@ -1,0 +1,1517 @@
+{
+    "data": {
+        "ID60000": {
+            "id": "ID60000",
+            "annotator": "ID90000",
+            "ref_id": "ID500000",
+            "ref_loc": 6,
+            "par_id": "ID100000",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60001": {
+            "annotator": "ID90001",
+            "ref_id": "ID500000",
+            "ref_loc": 6,
+            "par_id": "ID100000",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60002": {
+            "annotator": "ID90002",
+            "ref_id": "ID500000",
+            "ref_loc": 6,
+            "par_id": "ID100000",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60003": {
+            "annotator": "ID90000",
+            "ref_id": "ID500001",
+            "ref_loc": 10,
+            "par_id": "ID100000",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60004": {
+            "annotator": "ID90001",
+            "ref_id": "ID500001",
+            "ref_loc": 10,
+            "par_id": "ID100000",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60005": {
+            "annotator": "ID90002",
+            "ref_id": "ID500001",
+            "ref_loc": 10,
+            "par_id": "ID100000",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60006": {
+            "annotator": "ID90000",
+            "ref_id": "ID500002",
+            "ref_loc": 38,
+            "par_id": "ID100000",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60007": {
+            "annotator": "ID90001",
+            "ref_id": "ID500002",
+            "ref_loc": 38,
+            "par_id": "ID100000",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60008": {
+            "annotator": "ID90002",
+            "ref_id": "ID500002",
+            "ref_loc": 38,
+            "par_id": "ID100000",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60009": {
+            "annotator": "ID90000",
+            "ref_id": "ID500003",
+            "ref_loc": 55,
+            "par_id": "ID100000",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60010": {
+            "annotator": "ID90001",
+            "ref_id": "ID500003",
+            "ref_loc": 55,
+            "par_id": "ID100000",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60011": {
+            "annotator": "ID90002",
+            "ref_id": "ID500003",
+            "ref_loc": 55,
+            "par_id": "ID100000",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60012": {
+            "annotator": "ID90000",
+            "ref_id": "ID500004",
+            "ref_loc": 81,
+            "par_id": "ID100001",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60013": {
+            "annotator": "ID90001",
+            "ref_id": "ID500004",
+            "ref_loc": 81,
+            "par_id": "ID100001",
+            "status": "annotaded",
+            "annotation_loc": []
+        },
+        "ID60014": {
+            "annotator": "ID90002",
+            "ref_id": "ID500004",
+            "ref_loc": 81,
+            "par_id": "ID100001",
+            "status": "annotaded",
+            "annotation_loc": []
+        },
+        "ID60015": {
+            "annotator": "ID90000",
+            "ref_id": "ID500005",
+            "ref_loc": 85,
+            "par_id": "ID100001",
+            "status": "annotaded",
+            "annotation_loc": []
+        },
+        "ID60016": {
+            "annotator": "ID90001",
+            "ref_id": "ID500005",
+            "ref_loc": 85,
+            "par_id": "ID100001",
+            "status": "annotaded",
+            "annotation_loc": []
+        },
+        "ID60017": {
+            "annotator": "ID90002",
+            "ref_id": "ID500005",
+            "ref_loc": 85,
+            "par_id": "ID100001",
+            "status": "skipped",
+            "annotation_loc": []
+        },
+        "ID60018": {
+            "annotator": "ID90000",
+            "ref_id": "ID500006",
+            "ref_loc": 33,
+            "par_id": "ID100002",
+            "status": "skipped",
+            "annotation_loc": []
+        },
+        "ID60019": {
+            "annotator": "ID90001",
+            "ref_id": "ID500006",
+            "ref_loc": 33,
+            "par_id": "ID100002",
+            "status": "skipped",
+            "annotation_loc": []
+        },
+        "ID60020": {
+            "annotator": "ID90002",
+            "ref_id": "ID500006",
+            "ref_loc": 33,
+            "par_id": "ID100002",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60021": {
+            "annotator": "ID90000",
+            "ref_id": "ID500007",
+            "ref_loc": 40,
+            "par_id": "ID100002",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60022": {
+            "annotator": "ID90001",
+            "ref_id": "ID500007",
+            "ref_loc": 40,
+            "par_id": "ID100002",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60023": {
+            "annotator": "ID90002",
+            "ref_id": "ID500007",
+            "ref_loc": 40,
+            "par_id": "ID100002",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60024": {
+            "annotator": "ID90000",
+            "ref_id": "ID500008",
+            "ref_loc": 15,
+            "par_id": "ID100003",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60025": {
+            "annotator": "ID90001",
+            "ref_id": "ID500008",
+            "ref_loc": 15,
+            "par_id": "ID100003",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60026": {
+            "annotator": "ID90002",
+            "ref_id": "ID500008",
+            "ref_loc": 15,
+            "par_id": "ID100003",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60027": {
+            "annotator": "ID90000",
+            "ref_id": "ID500009",
+            "ref_loc": 17,
+            "par_id": "ID100003",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60028": {
+            "annotator": "ID90001",
+            "ref_id": "ID500009",
+            "ref_loc": 17,
+            "par_id": "ID100003",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60029": {
+            "annotator": "ID90002",
+            "ref_id": "ID500009",
+            "ref_loc": 17,
+            "par_id": "ID100003",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60030": {
+            "annotator": "ID90000",
+            "ref_id": "ID500010",
+            "ref_loc": 20,
+            "par_id": "ID100003",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60031": {
+            "annotator": "ID90001",
+            "ref_id": "ID500010",
+            "ref_loc": 20,
+            "par_id": "ID100003",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60032": {
+            "annotator": "ID90002",
+            "ref_id": "ID500010",
+            "ref_loc": 20,
+            "par_id": "ID100003",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60033": {
+            "annotator": "ID90000",
+            "ref_id": "ID500011",
+            "ref_loc": 85,
+            "par_id": "ID100003",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60034": {
+            "annotator": "ID90001",
+            "ref_id": "ID500011",
+            "ref_loc": 85,
+            "par_id": "ID100003",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60035": {
+            "annotator": "ID90002",
+            "ref_id": "ID500011",
+            "ref_loc": 85,
+            "par_id": "ID100003",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60036": {
+            "annotator": "ID90000",
+            "ref_id": "ID500012",
+            "ref_loc": 46,
+            "par_id": "ID100004",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60037": {
+            "annotator": "ID90001",
+            "ref_id": "ID500012",
+            "ref_loc": 46,
+            "par_id": "ID100004",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60038": {
+            "annotator": "ID90002",
+            "ref_id": "ID500012",
+            "ref_loc": 46,
+            "par_id": "ID100004",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60039": {
+            "annotator": "ID90000",
+            "ref_id": "ID500013",
+            "ref_loc": 30,
+            "par_id": "ID100005",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60040": {
+            "annotator": "ID90001",
+            "ref_id": "ID500013",
+            "ref_loc": 30,
+            "par_id": "ID100005",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60041": {
+            "annotator": "ID90002",
+            "ref_id": "ID500013",
+            "ref_loc": 30,
+            "par_id": "ID100005",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60042": {
+            "annotator": "ID90000",
+            "ref_id": "ID500014",
+            "ref_loc": 52,
+            "par_id": "ID100006",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60043": {
+            "annotator": "ID90001",
+            "ref_id": "ID500014",
+            "ref_loc": 52,
+            "par_id": "ID100006",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60044": {
+            "annotator": "ID90002",
+            "ref_id": "ID500014",
+            "ref_loc": 52,
+            "par_id": "ID100006",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60045": {
+            "annotator": "ID90000",
+            "ref_id": "ID500015",
+            "ref_loc": 54,
+            "par_id": "ID100006",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60046": {
+            "annotator": "ID90001",
+            "ref_id": "ID500015",
+            "ref_loc": 54,
+            "par_id": "ID100006",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60047": {
+            "annotator": "ID90002",
+            "ref_id": "ID500015",
+            "ref_loc": 54,
+            "par_id": "ID100006",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60048": {
+            "annotator": "ID90000",
+            "ref_id": "ID500016",
+            "ref_loc": 10,
+            "par_id": "ID100007",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60049": {
+            "annotator": "ID90001",
+            "ref_id": "ID500016",
+            "ref_loc": 10,
+            "par_id": "ID100007",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60050": {
+            "annotator": "ID90002",
+            "ref_id": "ID500016",
+            "ref_loc": 10,
+            "par_id": "ID100007",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60051": {
+            "annotator": "ID90000",
+            "ref_id": "ID500017",
+            "ref_loc": 57,
+            "par_id": "ID100007",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60052": {
+            "annotator": "ID90001",
+            "ref_id": "ID500017",
+            "ref_loc": 57,
+            "par_id": "ID100007",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60053": {
+            "annotator": "ID90002",
+            "ref_id": "ID500017",
+            "ref_loc": 57,
+            "par_id": "ID100007",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60054": {
+            "annotator": "ID90000",
+            "ref_id": "ID500018",
+            "ref_loc": 43,
+            "par_id": "ID100008",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60055": {
+            "annotator": "ID90001",
+            "ref_id": "ID500018",
+            "ref_loc": 43,
+            "par_id": "ID100008",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60056": {
+            "annotator": "ID90002",
+            "ref_id": "ID500018",
+            "ref_loc": 43,
+            "par_id": "ID100008",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60057": {
+            "annotator": "ID90000",
+            "ref_id": "ID500019",
+            "ref_loc": 54,
+            "par_id": "ID100008",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60058": {
+            "annotator": "ID90001",
+            "ref_id": "ID500019",
+            "ref_loc": 54,
+            "par_id": "ID100008",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60059": {
+            "annotator": "ID90002",
+            "ref_id": "ID500019",
+            "ref_loc": 54,
+            "par_id": "ID100008",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60060": {
+            "annotator": "ID90000",
+            "ref_id": "ID500020",
+            "ref_loc": 10,
+            "par_id": "ID100009",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60061": {
+            "annotator": "ID90001",
+            "ref_id": "ID500020",
+            "ref_loc": 10,
+            "par_id": "ID100009",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60062": {
+            "annotator": "ID90002",
+            "ref_id": "ID500020",
+            "ref_loc": 10,
+            "par_id": "ID100009",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60063": {
+            "annotator": "ID90000",
+            "ref_id": "ID500021",
+            "ref_loc": 24,
+            "par_id": "ID100010",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60064": {
+            "annotator": "ID90001",
+            "ref_id": "ID500021",
+            "ref_loc": 24,
+            "par_id": "ID100010",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60065": {
+            "annotator": "ID90002",
+            "ref_id": "ID500021",
+            "ref_loc": 24,
+            "par_id": "ID100010",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60066": {
+            "annotator": "ID90000",
+            "ref_id": "ID500022",
+            "ref_loc": 54,
+            "par_id": "ID100011",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60067": {
+            "annotator": "ID90001",
+            "ref_id": "ID500022",
+            "ref_loc": 54,
+            "par_id": "ID100011",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60068": {
+            "annotator": "ID90002",
+            "ref_id": "ID500022",
+            "ref_loc": 54,
+            "par_id": "ID100011",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60069": {
+            "annotator": "ID90000",
+            "ref_id": "ID500023",
+            "ref_loc": 4,
+            "par_id": "ID100012",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60070": {
+            "annotator": "ID90001",
+            "ref_id": "ID500023",
+            "ref_loc": 4,
+            "par_id": "ID100012",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60071": {
+            "annotator": "ID90002",
+            "ref_id": "ID500023",
+            "ref_loc": 4,
+            "par_id": "ID100012",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60072": {
+            "annotator": "ID90000",
+            "ref_id": "ID500024",
+            "ref_loc": 88,
+            "par_id": "ID100013",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60073": {
+            "annotator": "ID90001",
+            "ref_id": "ID500024",
+            "ref_loc": 88,
+            "par_id": "ID100013",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60074": {
+            "annotator": "ID90002",
+            "ref_id": "ID500024",
+            "ref_loc": 88,
+            "par_id": "ID100013",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60075": {
+            "annotator": "ID90000",
+            "ref_id": "ID500025",
+            "ref_loc": 8,
+            "par_id": "ID100014",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60076": {
+            "annotator": "ID90001",
+            "ref_id": "ID500025",
+            "ref_loc": 8,
+            "par_id": "ID100014",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60077": {
+            "annotator": "ID90002",
+            "ref_id": "ID500025",
+            "ref_loc": 8,
+            "par_id": "ID100014",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60078": {
+            "annotator": "ID90000",
+            "ref_id": "ID500026",
+            "ref_loc": 73,
+            "par_id": "ID100015",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60079": {
+            "annotator": "ID90001",
+            "ref_id": "ID500026",
+            "ref_loc": 73,
+            "par_id": "ID100015",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60080": {
+            "annotator": "ID90002",
+            "ref_id": "ID500026",
+            "ref_loc": 73,
+            "par_id": "ID100015",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60081": {
+            "annotator": "ID90000",
+            "ref_id": "ID500027",
+            "ref_loc": 28,
+            "par_id": "ID100016",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60082": {
+            "annotator": "ID90001",
+            "ref_id": "ID500027",
+            "ref_loc": 28,
+            "par_id": "ID100016",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60083": {
+            "annotator": "ID90002",
+            "ref_id": "ID500027",
+            "ref_loc": 28,
+            "par_id": "ID100016",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60084": {
+            "annotator": "ID90000",
+            "ref_id": "ID500028",
+            "ref_loc": 31,
+            "par_id": "ID100016",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60085": {
+            "annotator": "ID90001",
+            "ref_id": "ID500028",
+            "ref_loc": 31,
+            "par_id": "ID100016",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60086": {
+            "annotator": "ID90002",
+            "ref_id": "ID500028",
+            "ref_loc": 31,
+            "par_id": "ID100016",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60087": {
+            "annotator": "ID90000",
+            "ref_id": "ID500029",
+            "ref_loc": 43,
+            "par_id": "ID100017",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60088": {
+            "annotator": "ID90001",
+            "ref_id": "ID500029",
+            "ref_loc": 43,
+            "par_id": "ID100017",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60089": {
+            "annotator": "ID90002",
+            "ref_id": "ID500029",
+            "ref_loc": 43,
+            "par_id": "ID100017",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60090": {
+            "annotator": "ID90000",
+            "ref_id": "ID500030",
+            "ref_loc": 74,
+            "par_id": "ID100017",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60091": {
+            "annotator": "ID90001",
+            "ref_id": "ID500030",
+            "ref_loc": 74,
+            "par_id": "ID100017",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60092": {
+            "annotator": "ID90002",
+            "ref_id": "ID500030",
+            "ref_loc": 74,
+            "par_id": "ID100017",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60093": {
+            "annotator": "ID90000",
+            "ref_id": "ID500031",
+            "ref_loc": 22,
+            "par_id": "ID100018",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60094": {
+            "annotator": "ID90001",
+            "ref_id": "ID500031",
+            "ref_loc": 22,
+            "par_id": "ID100018",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60095": {
+            "annotator": "ID90002",
+            "ref_id": "ID500031",
+            "ref_loc": 22,
+            "par_id": "ID100018",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60096": {
+            "annotator": "ID90000",
+            "ref_id": "ID500032",
+            "ref_loc": 57,
+            "par_id": "ID100018",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60097": {
+            "annotator": "ID90001",
+            "ref_id": "ID500032",
+            "ref_loc": 57,
+            "par_id": "ID100018",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60098": {
+            "annotator": "ID90002",
+            "ref_id": "ID500032",
+            "ref_loc": 57,
+            "par_id": "ID100018",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60099": {
+            "annotator": "ID90000",
+            "ref_id": "ID500033",
+            "ref_loc": 5,
+            "par_id": "ID100019",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60100": {
+            "annotator": "ID90001",
+            "ref_id": "ID500033",
+            "ref_loc": 5,
+            "par_id": "ID100019",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60101": {
+            "annotator": "ID90002",
+            "ref_id": "ID500033",
+            "ref_loc": 5,
+            "par_id": "ID100019",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60102": {
+            "annotator": "ID90000",
+            "ref_id": "ID500034",
+            "ref_loc": 1,
+            "par_id": "ID100020",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60103": {
+            "annotator": "ID90001",
+            "ref_id": "ID500034",
+            "ref_loc": 1,
+            "par_id": "ID100020",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60104": {
+            "annotator": "ID90002",
+            "ref_id": "ID500034",
+            "ref_loc": 1,
+            "par_id": "ID100020",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60105": {
+            "annotator": "ID90000",
+            "ref_id": "ID500035",
+            "ref_loc": 3,
+            "par_id": "ID100021",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60106": {
+            "annotator": "ID90001",
+            "ref_id": "ID500035",
+            "ref_loc": 3,
+            "par_id": "ID100021",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60107": {
+            "annotator": "ID90002",
+            "ref_id": "ID500035",
+            "ref_loc": 3,
+            "par_id": "ID100021",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60108": {
+            "annotator": "ID90000",
+            "ref_id": "ID500036",
+            "ref_loc": 3,
+            "par_id": "ID100022",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60109": {
+            "annotator": "ID90001",
+            "ref_id": "ID500036",
+            "ref_loc": 3,
+            "par_id": "ID100022",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60110": {
+            "annotator": "ID90002",
+            "ref_id": "ID500036",
+            "ref_loc": 3,
+            "par_id": "ID100022",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60111": {
+            "annotator": "ID90000",
+            "ref_id": "ID500037",
+            "ref_loc": 1,
+            "par_id": "ID100023",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60112": {
+            "annotator": "ID90001",
+            "ref_id": "ID500037",
+            "ref_loc": 1,
+            "par_id": "ID100023",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60113": {
+            "annotator": "ID90002",
+            "ref_id": "ID500037",
+            "ref_loc": 1,
+            "par_id": "ID100023",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60114": {
+            "annotator": "ID90000",
+            "ref_id": "ID500038",
+            "ref_loc": 1,
+            "par_id": "ID100024",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60115": {
+            "annotator": "ID90001",
+            "ref_id": "ID500038",
+            "ref_loc": 1,
+            "par_id": "ID100024",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60116": {
+            "annotator": "ID90002",
+            "ref_id": "ID500038",
+            "ref_loc": 1,
+            "par_id": "ID100024",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60117": {
+            "annotator": "ID90000",
+            "ref_id": "ID500039",
+            "ref_loc": 4,
+            "par_id": "ID100025",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60118": {
+            "annotator": "ID90001",
+            "ref_id": "ID500039",
+            "ref_loc": 4,
+            "par_id": "ID100025",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60119": {
+            "annotator": "ID90002",
+            "ref_id": "ID500039",
+            "ref_loc": 4,
+            "par_id": "ID100025",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60120": {
+            "annotator": "ID90000",
+            "ref_id": "ID500040",
+            "ref_loc": 9,
+            "par_id": "ID100025",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60121": {
+            "annotator": "ID90001",
+            "ref_id": "ID500040",
+            "ref_loc": 9,
+            "par_id": "ID100025",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60122": {
+            "annotator": "ID90002",
+            "ref_id": "ID500040",
+            "ref_loc": 9,
+            "par_id": "ID100025",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60123": {
+            "annotator": "ID90000",
+            "ref_id": "ID500041",
+            "ref_loc": 12,
+            "par_id": "ID100025",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60124": {
+            "annotator": "ID90001",
+            "ref_id": "ID500041",
+            "ref_loc": 12,
+            "par_id": "ID100025",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60125": {
+            "annotator": "ID90002",
+            "ref_id": "ID500041",
+            "ref_loc": 12,
+            "par_id": "ID100025",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60126": {
+            "annotator": "ID90000",
+            "ref_id": "ID500042",
+            "ref_loc": 5,
+            "par_id": "ID100026",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60127": {
+            "annotator": "ID90001",
+            "ref_id": "ID500042",
+            "ref_loc": 5,
+            "par_id": "ID100026",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60128": {
+            "annotator": "ID90002",
+            "ref_id": "ID500042",
+            "ref_loc": 5,
+            "par_id": "ID100026",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60129": {
+            "annotator": "ID90000",
+            "ref_id": "ID500043",
+            "ref_loc": 13,
+            "par_id": "ID100027",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60130": {
+            "annotator": "ID90001",
+            "ref_id": "ID500043",
+            "ref_loc": 13,
+            "par_id": "ID100027",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60131": {
+            "annotator": "ID90002",
+            "ref_id": "ID500043",
+            "ref_loc": 13,
+            "par_id": "ID100027",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60132": {
+            "annotator": "ID90000",
+            "ref_id": "ID500044",
+            "ref_loc": 48,
+            "par_id": "ID100028",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60133": {
+            "annotator": "ID90001",
+            "ref_id": "ID500044",
+            "ref_loc": 48,
+            "par_id": "ID100028",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60134": {
+            "annotator": "ID90002",
+            "ref_id": "ID500044",
+            "ref_loc": 48,
+            "par_id": "ID100028",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60135": {
+            "annotator": "ID90000",
+            "ref_id": "ID500045",
+            "ref_loc": 77,
+            "par_id": "ID100028",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60136": {
+            "annotator": "ID90001",
+            "ref_id": "ID500045",
+            "ref_loc": 77,
+            "par_id": "ID100028",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60137": {
+            "annotator": "ID90002",
+            "ref_id": "ID500045",
+            "ref_loc": 77,
+            "par_id": "ID100028",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60138": {
+            "annotator": "ID90000",
+            "ref_id": "ID500046",
+            "ref_loc": 74,
+            "par_id": "ID100029",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60139": {
+            "annotator": "ID90001",
+            "ref_id": "ID500046",
+            "ref_loc": 74,
+            "par_id": "ID100029",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60140": {
+            "annotator": "ID90002",
+            "ref_id": "ID500046",
+            "ref_loc": 74,
+            "par_id": "ID100029",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60141": {
+            "annotator": "ID90000",
+            "ref_id": "ID500047",
+            "ref_loc": 52,
+            "par_id": "ID100030",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60142": {
+            "annotator": "ID90001",
+            "ref_id": "ID500047",
+            "ref_loc": 52,
+            "par_id": "ID100030",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60143": {
+            "annotator": "ID90002",
+            "ref_id": "ID500047",
+            "ref_loc": 52,
+            "par_id": "ID100030",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60144": {
+            "annotator": "ID90000",
+            "ref_id": "ID500048",
+            "ref_loc": 20,
+            "par_id": "ID100031",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60145": {
+            "annotator": "ID90001",
+            "ref_id": "ID500048",
+            "ref_loc": 20,
+            "par_id": "ID100031",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60146": {
+            "annotator": "ID90002",
+            "ref_id": "ID500048",
+            "ref_loc": 20,
+            "par_id": "ID100031",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60147": {
+            "annotator": "ID90000",
+            "ref_id": "ID500049",
+            "ref_loc": 45,
+            "par_id": "ID100031",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60148": {
+            "annotator": "ID90001",
+            "ref_id": "ID500049",
+            "ref_loc": 45,
+            "par_id": "ID100031",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60149": {
+            "annotator": "ID90002",
+            "ref_id": "ID500049",
+            "ref_loc": 45,
+            "par_id": "ID100031",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60150": {
+            "annotator": "ID90000",
+            "ref_id": "ID500050",
+            "ref_loc": 6,
+            "par_id": "ID100032",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60151": {
+            "annotator": "ID90001",
+            "ref_id": "ID500050",
+            "ref_loc": 6,
+            "par_id": "ID100032",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60152": {
+            "annotator": "ID90002",
+            "ref_id": "ID500050",
+            "ref_loc": 6,
+            "par_id": "ID100032",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60153": {
+            "annotator": "ID90000",
+            "ref_id": "ID500051",
+            "ref_loc": 11,
+            "par_id": "ID100032",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60154": {
+            "annotator": "ID90001",
+            "ref_id": "ID500051",
+            "ref_loc": 11,
+            "par_id": "ID100032",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60155": {
+            "annotator": "ID90002",
+            "ref_id": "ID500051",
+            "ref_loc": 11,
+            "par_id": "ID100032",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60156": {
+            "annotator": "ID90000",
+            "ref_id": "ID500052",
+            "ref_loc": 4,
+            "par_id": "ID100033",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60157": {
+            "annotator": "ID90001",
+            "ref_id": "ID500052",
+            "ref_loc": 4,
+            "par_id": "ID100033",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60158": {
+            "annotator": "ID90002",
+            "ref_id": "ID500052",
+            "ref_loc": 4,
+            "par_id": "ID100033",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60159": {
+            "annotator": "ID90000",
+            "ref_id": "ID500053",
+            "ref_loc": 4,
+            "par_id": "ID100034",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60160": {
+            "annotator": "ID90001",
+            "ref_id": "ID500053",
+            "ref_loc": 4,
+            "par_id": "ID100034",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60161": {
+            "annotator": "ID90002",
+            "ref_id": "ID500053",
+            "ref_loc": 4,
+            "par_id": "ID100034",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60162": {
+            "annotator": "ID90000",
+            "ref_id": "ID500054",
+            "ref_loc": 4,
+            "par_id": "ID100035",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60163": {
+            "annotator": "ID90001",
+            "ref_id": "ID500054",
+            "ref_loc": 4,
+            "par_id": "ID100035",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60164": {
+            "annotator": "ID90002",
+            "ref_id": "ID500054",
+            "ref_loc": 4,
+            "par_id": "ID100035",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60165": {
+            "annotator": "ID90000",
+            "ref_id": "ID500055",
+            "ref_loc": 9,
+            "par_id": "ID100035",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60166": {
+            "annotator": "ID90001",
+            "ref_id": "ID500055",
+            "ref_loc": 9,
+            "par_id": "ID100035",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60167": {
+            "annotator": "ID90002",
+            "ref_id": "ID500055",
+            "ref_loc": 9,
+            "par_id": "ID100035",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60168": {
+            "annotator": "ID90000",
+            "ref_id": "ID500056",
+            "ref_loc": 14,
+            "par_id": "ID100035",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60169": {
+            "annotator": "ID90001",
+            "ref_id": "ID500056",
+            "ref_loc": 14,
+            "par_id": "ID100035",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60170": {
+            "annotator": "ID90002",
+            "ref_id": "ID500056",
+            "ref_loc": 14,
+            "par_id": "ID100035",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60171": {
+            "annotator": "ID90000",
+            "ref_id": "ID500057",
+            "ref_loc": 21,
+            "par_id": "ID100035",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60172": {
+            "annotator": "ID90001",
+            "ref_id": "ID500057",
+            "ref_loc": 21,
+            "par_id": "ID100035",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60173": {
+            "annotator": "ID90002",
+            "ref_id": "ID500057",
+            "ref_loc": 21,
+            "par_id": "ID100035",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60174": {
+            "annotator": "ID90000",
+            "ref_id": "ID500058",
+            "ref_loc": 29,
+            "par_id": "ID100035",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60175": {
+            "annotator": "ID90001",
+            "ref_id": "ID500058",
+            "ref_loc": 29,
+            "par_id": "ID100035",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60176": {
+            "annotator": "ID90002",
+            "ref_id": "ID500058",
+            "ref_loc": 29,
+            "par_id": "ID100035",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60177": {
+            "annotator": "ID90000",
+            "ref_id": "ID500059",
+            "ref_loc": 34,
+            "par_id": "ID100035",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60178": {
+            "annotator": "ID90001",
+            "ref_id": "ID500059",
+            "ref_loc": 34,
+            "par_id": "ID100035",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60179": {
+            "annotator": "ID90002",
+            "ref_id": "ID500059",
+            "ref_loc": 34,
+            "par_id": "ID100035",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60180": {
+            "annotator": "ID90000",
+            "ref_id": "ID500060",
+            "ref_loc": 36,
+            "par_id": "ID100036",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60181": {
+            "annotator": "ID90001",
+            "ref_id": "ID500060",
+            "ref_loc": 36,
+            "par_id": "ID100036",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60182": {
+            "annotator": "ID90002",
+            "ref_id": "ID500060",
+            "ref_loc": 36,
+            "par_id": "ID100036",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60183": {
+            "annotator": "ID90000",
+            "ref_id": "ID500061",
+            "ref_loc": 6,
+            "par_id": "ID100037",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60184": {
+            "annotator": "ID90001",
+            "ref_id": "ID500061",
+            "ref_loc": 6,
+            "par_id": "ID100037",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60185": {
+            "annotator": "ID90002",
+            "ref_id": "ID500061",
+            "ref_loc": 6,
+            "par_id": "ID100037",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60186": {
+            "annotator": "ID90000",
+            "ref_id": "ID500062",
+            "ref_loc": 13,
+            "par_id": "ID100037",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60187": {
+            "annotator": "ID90001",
+            "ref_id": "ID500062",
+            "ref_loc": 13,
+            "par_id": "ID100037",
+            "status": "outstanding",
+            "annotation_loc": []
+        },
+        "ID60188": {
+            "annotator": "ID90002",
+            "ref_id": "ID500062",
+            "ref_loc": 13,
+            "par_id": "ID100037",
+            "status": "outstanding",
+            "annotation_loc": []
+        }
+    }
+}
