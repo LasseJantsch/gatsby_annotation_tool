@@ -18,7 +18,7 @@ const TableEntry = ({id,status,count}) => {
                 </div>
                 <div className="entry_annotation_count entry_label">{count}</div>
                 <div className="entry_action entry_label ">
-                    <Link to={'/annotation?id='+ encodeURIComponent(id)}>
+                    <Link to={'/annotation/'+ encodeURIComponent(id)}>
                         <button className="edit_entry_button">
                             <DriveFileRenameOutlineIcon className="edit_entry_button_icon"/>
                             <div className="edit_entry_label">

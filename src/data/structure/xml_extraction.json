@@ -1,0 +1,38 @@
+[
+    {
+        "title": "title of document",
+        "authors": [
+            {
+                "first_name": "first_name1",
+                "last_name": "last_name1"
+            }
+        ],
+        "publication_year": 2022,
+        "abstract": "absrtact",
+        "sections": [
+            {
+                "section_name": "name of the section",
+                "section_nr": "nr of section",
+                "paragraphs": [
+                    "text between <p></p> tags",
+                    "please change references (<ref type='bibr' target='#b23'>...</ref>) to [REF:target] (ex. [REF:#b23])",
+                    "you can ignore tables, figures etc."
+                ]
+            }
+        ],
+        "references": {
+            "id": "id of resource (e.g. b23)",
+            "title": "title of reference",
+            "authors": [
+                {
+                    "first_name": "first_name1",
+                    "last_name": "last_name1"
+                }
+            ],
+            "publication_year": "publication year of reference",
+            "DOI": {
+                "type": "type (doi | avirex ) ",
+                "content": "if they have doi tag, include it as well (looks liek this: <idno type='DOI'>10.1145/3041823.3067694</idno>)"}
+        }
+    }
+]

@@ -3,14 +3,33 @@ import Header from "../components/header";
 import '../css/style.css'
 import TableEntry from "../components/table_entry";
 import { getAnns, getUser } from "../api/api";
+import { useStaticQuery, graphql } from "gatsby"
 
-const Overview = () => {
+const Dashboard = () => {
 
     const [user, setUser] = useState()
     const [anns, setAnns] = useState()
     const [total, setTotal] = useState(1)
     const [annotaded, setAnnotaded] =useState(0)
     const [skipped, setSkipped] = useState(0)
+
+    const data = useStaticQuery(graphql`
+        query UserQuery {
+            allMysqlUsers(filter: {mysqlId: {eq: 1}}) {
+            edges {
+                node {
+                name
+                annotations {
+                    mysqlId
+                    ref_id
+                    status
+                }
+                }
+            }
+            }
+        }
+    `)
+    console.log(data)
 
     useEffect(()=>{
         setUser(getUser('ID90000'))
@@ -55,7 +74,7 @@ const Overview = () => {
                         <button id="id_header" className="table_header_label">ID</button>
                         <button id="status_header" className="table_header_label">Status</button>
                         <button id="annotation_count_header" className="table_header_label">Count</button>
-                        <button id="action_header" className="table_header_label"></button>
+                        <button id="action_header" className="table_header_label"> </button>
                     </div> 
                     <div id="table_content_container">
                         {anns &&
@@ -75,4 +94,4 @@ const Overview = () => {
     )
 }
 
-export default Overview
+export default Dashboard

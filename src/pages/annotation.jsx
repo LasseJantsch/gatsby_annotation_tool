@@ -11,10 +11,11 @@ import CheckTwoToneIcon from '@mui/icons-material/CheckTwoTone';
 import InfoCard from "../components/info_card";
 import { getAnn, getPar } from "../api/api";
 import { getSelectedIds } from "../helpers/annotation_helpers";
-import AnnotationTextElement from "../components/annotation_text_element";
+import AnnotationTextElement from "../components/annotation_text_element"
+import { Link, navigate } from "gatsby";
 
 
-const AnnotationPage = () => {
+const AnnotationPage = ({params}) => {
     const title = 'Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks'
     const authors = ['Nils Reimers', 'Iryna Gurevych']
     const pub_year = '2019'
@@ -24,16 +25,20 @@ const AnnotationPage = () => {
 
     const [id, setId] = useState()
     const [ann, setAnn] = useState()
+    const [next, setNext] = useState()
+    const [prev, setPrev] = useState()
     const [par, setPar] = useState()
+    const [unsafedChanges, setUnsafedChanges] = useState(false)
     const [toolStatus, setToolStatus] = useState('mark_tool')
     const [showInfoCard, setShowInfoCard] = useState(true)
     const [annotation, setAnnotation] = useState([])
 
+
     // get query form Url on mount
     useEffect(()=>{
-        const urlParams = new URLSearchParams(window.location.search);
-        setId(decodeURIComponent(urlParams.get('id')))
-    },[])
+        console.log(params)
+        setId(decodeURIComponent(params.id))
+    },[params])
 
     //set unmount event listener
     useEffect(() => {
@@ -82,7 +87,12 @@ const AnnotationPage = () => {
 
     // get Ann when id is updated
     useEffect(()=>{
-        id&& setAnn(getAnn(id))
+        if (id) {
+            setAnn(getAnn(id))
+            setNext(getAnn(`ID${Number(id.slice(2))+1}`))
+            setPrev(getAnn(`ID${Number(id.slice(2))-1}`))
+        }
+        console.log(id)
     },[id])
 
     //get par for id
@@ -92,11 +102,12 @@ const AnnotationPage = () => {
             fetched_par['data'][ann['ref_loc']] = '[TREF]'
             setPar(fetched_par)
         }
+        console.log(ann)
     },[ann])
 
     //manipulate ref tag
     useEffect(()=>{
-
+        console.log(par)
     },[par])
 
     useEffect(()=>{
@@ -152,8 +163,18 @@ const AnnotationPage = () => {
         }
         window.getSelection().removeAllRanges()
     }
-    
-
+    const handlePrev = () => {
+        prev? navigate('/annotation/' + encodeURIComponent(`ID${Number(id.slice(2))-1}`)):
+        navigate('/')
+    }
+    const handleSkipp = () => {
+        next ? navigate('/annotation/' + encodeURIComponent(`ID${Number(id.slice(2))+1}`)):
+        navigate('/')
+    }
+    const handleSub = () => {
+        next ? navigate('/annotation/' + encodeURIComponent(`ID${Number(id.slice(2))+1}`)):
+        navigate('/')
+    }
     return (
         <div className="annotation_site_container" onMouseUp={handleMark}>
             <Header title='ANNOTATION' show_menu={false}/>
@@ -194,22 +215,22 @@ const AnnotationPage = () => {
                 }
                 <div className="navigation_container">
                     <div className="help_button_container">
-                        <button className="help_button">
+                        <button className="help_button" >
                             <QuestionMarkTwoToneIcon className="help_button_icon"/>
                         </button>
                     </div>
                     <div className="prev_skip_button_container">
-                        <button className="prev_button">
+                        <button className="prev_button" onClick={handlePrev}>
                             <KeyboardDoubleArrowLeftTwoToneIcon className="prev_button_icon"/>
                             <span className="prev_button_label">Prev</span>
                         </button>
-                        <button className="skip_button">
+                        <button className="skip_button" onClick={handleSkipp}>
                             <span className="skip_button_laber">Skip</span>
                             <KeyboardDoubleArrowRightTwoToneIcon className="skip_button_icon" />
                         </button>
                     </div>
                     <div className="submit_button_container">
-                        <button className="submit_button">
+                        <button className="submit_button" onClick={handleSub}>
                             <CheckTwoToneIcon className="submit_button_icon"/>
                         </button>
                     </div>
